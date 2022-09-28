@@ -1,4 +1,4 @@
-ommand line for the win
+Command line for the win
 ========================
 
 -   By Sylvain Kalache, co-founder at Holberton School
